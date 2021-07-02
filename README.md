@@ -12,7 +12,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://ahforoughi.wixsite.com/site
+- 👨‍💻 My blog: ahforoughi.ir
 - 📫 How to reach me: ah.foroughi98@gmail.com
 - 🌱 Languages and Tools: 
 
